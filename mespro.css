@@ -1,0 +1,11 @@
+.div1 , .div2
+{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+body{
+    margin-left:20px;
+    margin-right:20px;
+}
